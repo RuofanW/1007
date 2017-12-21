@@ -1,0 +1,62 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467);
+    background-size: cover;
+    background-position: center; 
+    height: 100%;
+
+}
+
+h3 {
+	font-weight: 700;
+	font-size: 5em;
+	color: white;
+	font-family: Dosis;
+	text-align: center;
+}
+.container {
+	text-align: center;
+	vertical-align: center;
+	position: relative;
+}
+.col-md-3 {
+	float: left;
+	width: 30%;
+	margin: 4% 10px;
+	padding: 5px 5px;
+	background-color: "#ADD8E6";
+	border-radius: 25px;
+	height: 450px;
+}
+
+div {
+	text-align: center;
+}
+
+.jumbotron {
+	height: 300px;
+	background-color: "#ADD8E6";
+}
+.value {
+	height: 300px;
+}
+ 
+p{
+	color: white;
+}
+
+h4{
+	color: white;
+	font-size: 18pt;
+	font-family: Dosis;
+	text-align: center;
+
+}
+h5{
+	color: white;
+	font-size: 12pt;
+	text-align: center;
+
+}
+.value-gd-top {
+	height: 200px;
+}
